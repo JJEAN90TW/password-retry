@@ -10,5 +10,5 @@ while t > 0:
         print('ERROR!!')
         if t > 0:
             print( t, 'time(s) left!!')
-        if t == 0:
+        else:
             print('WRONG LA!! GET OUT!!')
